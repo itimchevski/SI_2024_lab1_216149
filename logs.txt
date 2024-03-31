@@ -1,0 +1,10 @@
+$ git log --all --decorate --oneline --graph
+* ad8ca87 (HEAD -> master, origin/master, bug2) Call method makeBigStringFrom in main class
+* 8f105b4 Fix wrong condition in makeBigStringFrom
+* c35d916 (origin/bug1, bug1) Call method filterOddLengthStrings in main class
+* 6922bb5 Fix wrong condition in filterOddLengthStrings
+| * 8b48cb1 (origin/bug2) Call method makeBigStringFrom in main class
+| * f113617 Fix wrong condition in makeBigStringFrom
+|/
+* 82c3776 Add starter code
+* 1659557 Intiital commit
